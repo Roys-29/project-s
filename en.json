@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Scout - AI-Powered GTM Agent",
+    "description": "Go-to-Market with AI-Powered Intelligence"
+  },
+  "navbar": {
+    "features": "Features",
+    "demo": "Demo",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Go-to-Market with AI-Powered Intelligence",
+    "subtitle": "Scout is your AI-powered GTM agent that drives customer engagement, optimizes your strategy, and delivers actionable insights for your business growth.",
+    "cta": {
+      "primary": "See it in action",
+      "secondary": "Explore features"
+    },
+    "trusted": "Trusted by innovative companies worldwide",
+    "companies": ["ACME Inc.", "TechCorp", "Innovate AI", "FutureTech"]
+  },
+  "features": {
+    "title": "Intelligent Features for Your GTM Strategy",
+    "subtitle": "Scout combines powerful AI capabilities with deep market intelligence to drive your business growth.",
+    "items": [
+      {
+        "title": "Market Intelligence",
+        "description": "Real-time market analysis and competitor tracking to identify new opportunities and stay ahead.",
+        "link": "Learn more"
+      },
+      {
+        "title": "Customer Insights",
+        "description": "Deep analysis of customer behavior and preferences to optimize your messaging and product strategy.",
+        "link": "Learn more"
+      },
+      {
+        "title": "Campaign Optimization",
+        "description": "Automated optimization of your marketing campaigns with AI-driven testing and personalization.",
+        "link": "Learn more"
+      },
+      {
+        "title": "Predictive Analytics",
+        "description": "Forecast market trends and customer behaviors to make data-driven decisions proactively.",
+        "link": "Learn more"
+      },
+      {
+        "title": "Automated Workflows",
+        "description": "Streamline your sales and marketing processes with intelligent automation to save time and resources.",
+        "link": "Learn more"
+      },
+      {
+        "title": "Revenue Intelligence",
+        "description": "Track and optimize your revenue streams with real-time performance analytics and forecasting.",
+        "link": "Learn more"
+      }
+    ]
+  },
+  "demo": {
+    "title": "See Scout in Action",
+    "subtitle": "Experience the power of Scout's AI capabilities with our interactive demo.",
+    "buttons": [
+      {
+        "title": "Campaign Analysis",
+        "description": "See how Scout optimizes your campaigns"
+      },
+      {
+        "title": "Market Intelligence",
+        "description": "Track competitors and market trends"
+      },
+      {
+        "title": "Revenue Forecasting",
+        "description": "Predict future growth and opportunities"
+      }
+    ],
+    "cta": "Get a personalized demo"
+  },
+  "testimonials": {
+    "title": "Trusted by Industry Leaders",
+    "subtitle": "Discover how Scout has transformed go-to-market strategies for businesses worldwide.",
+    "items": [
+      {
+        "quote": "Scout has transformed our go-to-market strategy. The AI-powered insights helped us identify untapped market segments and optimize our messaging, resulting in a 43% increase in conversion rates.",
+        "author": "Sarah Johnson",
+        "role": "CMO, TechVenture Inc."
+      },
+      {
+        "quote": "The predictive analytics capabilities in Scout have been a game-changer for our revenue forecasting. We can now anticipate market shifts and adjust our strategy proactively instead of reactively.",
+        "author": "David Chen",
+        "role": "VP of Sales, GrowthMakers"
+      },
+      {
+        "quote": "The automated workflow capabilities helped us scale our GTM operations efficiently. Our team now focuses on strategy instead of manual data analysis, and we've cut operational costs by 35%.",
+        "author": "Michelle Rodriguez",
+        "role": "Director of Marketing, InnovateCo"
+      }
+    ],
+    "more": "View more success stories"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that's right for your business growth needs.",
+    "billingToggle": {
+      "monthly": "Monthly",
+      "annual": "Annual (20% off)"
+    },
+    "plans": [
+      {
+        "name": "Starter",
+        "description": "Perfect for small businesses",
+        "price": "$49",
+        "period": "/month",
+        "features": [
+          "Basic market intelligence",
+          "Up to 1,000 customer profiles",
+          "2 user seats",
+          "Email support"
+        ],
+        "cta": "Get started"
+      },
+      {
+        "name": "Growth",
+        "description": "For growing companies",
+        "price": "$99",
+        "period": "/month",
+        "features": [
+          "Advanced market intelligence",
+          "Up to 10,000 customer profiles",
+          "5 user seats",
+          "Revenue intelligence",
+          "Priority email & chat support"
+        ],
+        "popular": "Most Popular",
+        "cta": "Get started"
+      },
+      {
+        "name": "Enterprise",
+        "description": "For large organizations",
+        "price": "Custom",
+        "features": [
+          "Full suite of intelligence tools",
+          "Unlimited customer profiles",
+          "Unlimited user seats",
+          "Custom AI model training",
+          "Dedicated success manager"
+        ],
+        "cta": "Contact sales"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to get started?",
+    "subtitle": "Fill out the form and our team will get back to you within 24 hours.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "123 Innovation Drive, San Francisco, CA 94107, USA",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@scoutai.com"
+    },
+    "social": {
+      "title": "Follow Us"
+    }
+  },
+  "footer": {
+    "about": "AI-powered GTM agent that drives customer engagement and business growth through intelligent market analysis.",
+    "links": {
+      "product": {
+        "title": "Product",
+        "items": ["Features", "How it works", "Pricing", "API Documentation", "Integrations"]
+      },
+      "resources": {
+        "title": "Resources",
+        "items": ["Blog", "Knowledge Base", "Case Studies", "Webinars", "Market Reports"]
+      },
+      "company": {
+        "title": "Company",
+        "items": ["About Us", "Careers", "Contact", "Privacy Policy", "Terms of Service"]
+      }
+    },
+    "copyright": "© 2023 Scout AI. All rights reserved.",
+    "legal": ["Privacy Policy", "Terms of Service", "Cookie Policy"]
+  }
+}

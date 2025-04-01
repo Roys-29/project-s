@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Scout - Agente GTM con IA",
+    "description": "Ve al mercado con inteligencia potenciada por IA"
+  },
+  "navbar": {
+    "features": "Características",
+    "demo": "Demostración",
+    "testimonials": "Testimonios",
+    "pricing": "Precios",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "title": "Ve al mercado con inteligencia potenciada por IA",
+    "subtitle": "Scout es tu agente GTM impulsado por IA que impulsa la participación del cliente, optimiza tu estrategia y ofrece información práctica para el crecimiento de tu negocio.",
+    "cta": {
+      "primary": "Ver en acción",
+      "secondary": "Explorar características"
+    },
+    "trusted": "De confianza para empresas innovadoras en todo el mundo",
+    "companies": ["ACME Inc.", "TechCorp", "Innovate AI", "FutureTech"]
+  },
+  "features": {
+    "title": "Características inteligentes para tu estrategia GTM",
+    "subtitle": "Scout combina potentes capacidades de IA con inteligencia de mercado profunda para impulsar el crecimiento de tu negocio.",
+    "items": [
+      {
+        "title": "Inteligencia de mercado",
+        "description": "Análisis de mercado en tiempo real y seguimiento de la competencia para identificar nuevas oportunidades y mantenerse a la vanguardia.",
+        "link": "Saber más"
+      },
+      {
+        "title": "Información del cliente",
+        "description": "Análisis profundo del comportamiento y las preferencias del cliente para optimizar tus mensajes y la estrategia de producto.",
+        "link": "Saber más"
+      },
+      {
+        "title": "Optimización de campañas",
+        "description": "Optimización automatizada de tus campañas de marketing con pruebas y personalización impulsadas por IA.",
+        "link": "Saber más"
+      },
+      {
+        "title": "Análisis predictivo",
+        "description": "Pronostica tendencias del mercado y comportamientos de los clientes para tomar decisiones basadas en datos de forma proactiva.",
+        "link": "Saber más"
+      },
+      {
+        "title": "Flujos de trabajo automatizados",
+        "description": "Optimiza tus procesos de ventas y marketing con automatización inteligente para ahorrar tiempo y recursos.",
+        "link": "Saber más"
+      },
+      {
+        "title": "Inteligencia de ingresos",
+        "description": "Rastrea y optimiza tus fuentes de ingresos con análisis de rendimiento en tiempo real y previsiones.",
+        "link": "Saber más"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Ve a Scout en acción",
+    "subtitle": "Experimenta el poder de las capacidades de IA de Scout con nuestra demostración interactiva.",
+    "buttons": [
+      {
+        "title": "Análisis de campaña",
+        "description": "Mira cómo Scout optimiza tus campañas"
+      },
+      {
+        "title": "Inteligencia de mercado",
+        "description": "Haz seguimiento a competidores y tendencias del mercado"
+      },
+      {
+        "title": "Previsión de ingresos",
+        "description": "Predice el crecimiento futuro y las oportunidades"
+      }
+    ],
+    "cta": "Obtén una demostración personalizada"
+  },
+  "testimonials": {
+    "title": "De confianza para líderes de la industria",
+    "subtitle": "Descubre cómo Scout ha transformado las estrategias de entrada al mercado para empresas de todo el mundo.",
+    "items": [
+      {
+        "quote": "Scout ha transformado nuestra estrategia de entrada al mercado. Los conocimientos impulsados por IA nos ayudaron a identificar segmentos de mercado no aprovechados y optimizar nuestros mensajes, lo que resultó en un aumento del 43% en las tasas de conversión.",
+        "author": "Sarah Johnson",
+        "role": "CMO, TechVenture Inc."
+      },
+      {
+        "quote": "Las capacidades de análisis predictivo en Scout han sido un cambio de juego para nuestra previsión de ingresos. Ahora podemos anticipar cambios en el mercado y ajustar nuestra estrategia de manera proactiva en lugar de reactiva.",
+        "author": "David Chen",
+        "role": "VP de Ventas, GrowthMakers"
+      },
+      {
+        "quote": "Las capacidades de flujo de trabajo automatizado nos ayudaron a escalar nuestras operaciones GTM de manera eficiente. Nuestro equipo ahora se enfoca en la estrategia en lugar del análisis manual de datos, y hemos reducido los costos operativos en un 35%.",
+        "author": "Michelle Rodriguez",
+        "role": "Directora de Marketing, InnovateCo"
+      }
+    ],
+    "more": "Ver más historias de éxito"
+  },
+  "pricing": {
+    "title": "Precios simples y transparentes",
+    "subtitle": "Elige el plan adecuado para las necesidades de crecimiento de tu negocio.",
+    "billingToggle": {
+      "monthly": "Mensual",
+      "annual": "Anual (20% de descuento)"
+    },
+    "plans": [
+      {
+        "name": "Inicial",
+        "description": "Perfecto para pequeñas empresas",
+        "price": "$49",
+        "period": "/mes",
+        "features": [
+          "Inteligencia de mercado básica",
+          "Hasta 1,000 perfiles de clientes",
+          "2 asientos de usuario",
+          "Soporte por correo electrónico"
+        ],
+        "cta": "Comenzar"
+      },
+      {
+        "name": "Crecimiento",
+        "description": "Para empresas en crecimiento",
+        "price": "$99",
+        "period": "/mes",
+        "features": [
+          "Inteligencia de mercado avanzada",
+          "Hasta 10,000 perfiles de clientes",
+          "5 asientos de usuario",
+          "Inteligencia de ingresos",
+          "Soporte prioritario por correo y chat"
+        ],
+        "popular": "Más Popular",
+        "cta": "Comenzar"
+      },
+      {
+        "name": "Empresa",
+        "description": "Para grandes organizaciones",
+        "price": "Personalizado",
+        "features": [
+          "Suite completa de herramientas de inteligencia",
+          "Perfiles de clientes ilimitados",
+          "Asientos de usuario ilimitados",
+          "Entrenamiento de modelos de IA personalizados",
+          "Gerente de éxito dedicado"
+        ],
+        "cta": "Contactar a ventas"
+      }
+    ]
+  },
+  "contact": {
+    "title": "¿Listo para comenzar?",
+    "subtitle": "Completa el formulario y nuestro equipo se pondrá en contacto contigo dentro de las 24 horas.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    },
+    "info": {
+      "title": "Información de contacto",
+      "address": "123 Innovation Drive, San Francisco, CA 94107, USA",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@scoutai.com"
+    },
+    "social": {
+      "title": "Síguenos"
+    }
+  },
+  "footer": {
+    "about": "Agente GTM impulsado por IA que impulsa la participación del cliente y el crecimiento empresarial a través del análisis inteligente del mercado.",
+    "links": {
+      "product": {
+        "title": "Producto",
+        "items": ["Características", "Cómo funciona", "Precios", "Documentación API", "Integraciones"]
+      },
+      "resources": {
+        "title": "Recursos",
+        "items": ["Blog", "Base de conocimientos", "Casos de estudio", "Webinars", "Informes de mercado"]
+      },
+      "company": {
+        "title": "Empresa",
+        "items": ["Sobre nosotros", "Carreras", "Contacto", "Política de privacidad", "Términos de servicio"]
+      }
+    },
+    "copyright": "© 2023 Scout AI. Todos los derechos reservados.",
+    "legal": ["Política de privacidad", "Términos de servicio", "Política de cookies"]
+  }
+}
